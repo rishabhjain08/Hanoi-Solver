@@ -4,7 +4,7 @@
 
 int slab(float ,float ,float ,float ,float ,int);
 
-int top1,speed=8000,h=1,a[SIZE],width=5,inputdisc=1,show=1,speedlevel=5,bgcolor=7,slabcolor=1;
+int top1,speed=8000,h=1,a[SIZE],width=5,inputdisc=1,show=0,speedlevel=5,bgcolor=7,slabcolor=1;
 float gap=1,up;
 			
 WINDOW *win,*savewin;
